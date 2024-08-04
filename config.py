@@ -83,3 +83,18 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 def LOGGER(name: str) -> logging.Logger:
     return logging.getLogger(name)
+
+FOMET = """
+♡○♡○♡●♡○♡○♡●♡○♡○♡●♡○♡○♡
+
+                  𝑈𝙥𝙻𝐨ɐ𝘥𝕖𝘥 𝙱𝘆👇
+⭑⭑⭑★✪ @Dj_Serials_Bot ✪★⭑⭑⭑
+
+                        {}
+
+𝑫๏𝒘𝗻𝙻๏d  𝗟𝖎𝙣𝐤👇
+{}
+{}
+
+𝐡𝔬𝘸  𝗧𝐨  𝑫๏𝒘𝗻𝙻๏d - @how_view
+  """
